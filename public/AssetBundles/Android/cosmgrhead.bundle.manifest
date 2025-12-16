@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 608994611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c848b72cc8b1618be047ebd31f90dce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61a1c2bfd89abdaf2290bf1106c68422
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8c848b72cc8b1618be047ebd31f90dce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204f4ce21ca54d84aaa1fa4f73d729e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c849058dd8254b92fe950e5109097, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e928d11698de65641ba80d490973b74e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerHead/HeadData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerHead.prefab
+Dependencies: []

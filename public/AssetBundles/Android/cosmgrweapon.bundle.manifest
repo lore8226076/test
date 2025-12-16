@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 52007436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 850503655949d817388f8058295b25aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: beca757405b456cac19c2a98bc074dda
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 850503655949d817388f8058295b25aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204f4ce21ca54d84aaa1fa4f73d729e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb5b3a66e5ba8a44f8a075d6cce4f9c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c849058dd8254b92fe950e5109097, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerWeapon/WeaponData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerWeapon.prefab
+Dependencies: []

@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 702133613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 434f424295a6b6799916949a40d96566
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47f85c6e649561e2b83fa0fc4a906b1d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 434f424295a6b6799916949a40d96566
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b07cd3ce619a8d84d8d3ba0cddf42950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5696c128f6781744e9bc1f81e07c4f79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ade4e109587a284b8d95c9cb370d4d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9bee047cf1db13241b9a793e1f9a18d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbc836439e654904684f805b0b122bdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07b27ab38710760459bfc3944209e00f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6994ec4fe60a93f43bcd6a49af97456d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e66e79a30a37ff42a8eba0b2b744fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc6b70652f6a5d447bc085dbe580554b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6527fe90db4e2549b379ec37c36ad3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94a6e15c4e177a2489eaaa2de7bcb854, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e6081d0ddb306f4cbccb598d73e2148, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c769212d2fdc63640a2f1152faa30285, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28ed1560056a75548ae5c4fdef20c255, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22e595288fda2714d8d18fc39dd3bcff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c66a224d244898c45ad53e4300d98e13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9205bc1bbacc90040a998067b5643d16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb88a10746a46bf4480799312a87b4e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f6fcf2c26032a34ab3c39231d0c8d36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6985414bdd352404197d97bb46bed570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 766054e819cbd784c8ca6fb2859661e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dd2b2245e29ede4da8f6334a7255437, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18d329cd2c6e0604fba39cd02590a1e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/ObjectInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/TypeIconData
+- AssemblyName: Assembly-CSharp
+  ClassName: ObjectOnFloor/CoordInfo
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/AnimatedLight
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/CameraShake
+- AssemblyName: Fusion.Runtime
+  ClassName: Fusion.NetworkPrefabRef
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/_AssetBundle/Prefabs/MapResManagerObjects_Utility.prefab
+Dependencies: []

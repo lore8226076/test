@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2730834027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70d21f7982fddbef991f0cf8065dea77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 893616f1c546679207160c9c8ae6d450
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70d21f7982fddbef991f0cf8065dea77
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7d31d059cb685c419656c754aec9309, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204f4ce21ca54d84aaa1fa4f73d729e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c849058dd8254b92fe950e5109097, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerAcc/AccData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerAcc.prefab
+Dependencies: []

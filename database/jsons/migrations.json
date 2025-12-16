@@ -1,0 +1,57 @@
+[
+    {
+        "id": 58,
+        "migration": "2019_12_14_000001_create_personal_access_tokens_table",
+        "batch": 1
+    },
+    {
+        "id": 59,
+        "migration": "20250102163750_create_user_items",
+        "batch": 1
+    },
+    {
+        "id": 60,
+        "migration": "20250102173313_create_user_item_logs",
+        "batch": 1
+    },
+    {
+        "id": 61,
+        "migration": "20250102182050_create_user_mall_orders",
+        "batch": 1
+    },
+    {
+        "id": 62,
+        "migration": "20250109105340_add_teaching_user",
+        "batch": 1
+    },
+    {
+        "id": 63,
+        "migration": "20250214141219_change_user_items",
+        "batch": 2
+    },
+    {
+        "id": 64,
+        "migration": "20250217183119_add_user_items",
+        "batch": 3
+    },
+    {
+        "id": 65,
+        "migration": "20250217183544_add_user_item_logs",
+        "batch": 4
+    },
+    {
+        "id": 71,
+        "migration": "20250221133556_create_item_prices",
+        "batch": 5
+    },
+    {
+        "id": 72,
+        "migration": "20250221134301_add_user_mall_orders",
+        "batch": 6
+    },
+    {
+        "id": 73,
+        "migration": "20250225164257_add_teaching_name_user",
+        "batch": 7
+    }
+]

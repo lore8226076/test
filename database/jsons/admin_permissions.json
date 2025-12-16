@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "系統",
+        "admin_menu_ids": "100_101_102_200_201_300",
+        "updated_name": null,
+        "created_at": "2022-04-10 16:46:57",
+        "updated_at": "2022-04-17 08:02:17"
+    },
+    {
+        "id": 2,
+        "name": "業務",
+        "admin_menu_ids": "200_201",
+        "updated_name": null,
+        "created_at": "2022-04-10 17:24:08",
+        "updated_at": "2022-04-11 09:44:03"
+    },
+    {
+        "id": 3,
+        "name": "合作業務",
+        "admin_menu_ids": "300",
+        "updated_name": null,
+        "created_at": "2022-04-11 10:02:39",
+        "updated_at": "2022-04-11 10:02:39"
+    }
+]

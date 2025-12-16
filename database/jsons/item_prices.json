@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "item_id": 8200120,
+        "currency_item_id": 100,
+        "price": 999,
+        "created_at": "2025-02-25 18:01:12",
+        "updated_at": "2025-02-25 18:01:12"
+    },
+    {
+        "id": 2,
+        "item_id": 8200121,
+        "currency_item_id": 101,
+        "price": 100,
+        "created_at": "2025-02-25 18:01:12",
+        "updated_at": "2025-02-25 18:01:12"
+    }
+]

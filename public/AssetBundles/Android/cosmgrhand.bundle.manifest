@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1955291333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19ae2c748521703662ea35c511517afb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f18dcfb6d451ae72c753b6aeb5f8f4c2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 19ae2c748521703662ea35c511517afb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05950aa964110404eb2855bf15c871cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e66e79a30a37ff42a8eba0b2b744fb8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerHand/HandData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerHand.prefab
+Dependencies: []

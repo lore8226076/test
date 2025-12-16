@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1589790694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bb4a7eddad63bd344a6e9d316294eb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac972e6946b9e15cc7706707280c867f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bb4a7eddad63bd344a6e9d316294eb8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e66e79a30a37ff42a8eba0b2b744fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac20c0de3c8ca9d4fbd871ac29f56d52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerLower/LowerData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerLower.prefab
+Dependencies: []

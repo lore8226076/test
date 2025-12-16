@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1658740060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 128e488bb041b7caafa53addd224ceaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc88e848854b493b71d58fa3ec28cd22
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 128e488bb041b7caafa53addd224ceaf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e2d5f8aa960ab04180387de1ef83369, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerFace/FaceData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerFace.prefab
+Dependencies: []

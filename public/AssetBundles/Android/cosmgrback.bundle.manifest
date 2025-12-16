@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1196539758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33431373243f05d8130d1f1a5d65b868
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54b87d409d6d56e0c958b4caf5d425de
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 33431373243f05d8130d1f1a5d65b868
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204f4ce21ca54d84aaa1fa4f73d729e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68363ad23905da6429410ab08b4f47de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c849058dd8254b92fe950e5109097, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerBack/BackData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerBack.prefab
+Dependencies: []

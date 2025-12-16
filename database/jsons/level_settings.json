@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "user_map_id": 115,
+        "level": 1,
+        "sub_level": 1,
+        "section": 1,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 2,
+        "user_map_id": 116,
+        "level": 1,
+        "sub_level": 1,
+        "section": 2,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 3,
+        "user_map_id": 117,
+        "level": 1,
+        "sub_level": 1,
+        "section": 3,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 4,
+        "user_map_id": 118,
+        "level": 1,
+        "sub_level": 1,
+        "section": 4,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 5,
+        "user_map_id": 119,
+        "level": 1,
+        "sub_level": 1,
+        "section": 5,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 6,
+        "user_map_id": 120,
+        "level": 1,
+        "sub_level": 2,
+        "section": 1,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 7,
+        "user_map_id": 121,
+        "level": 1,
+        "sub_level": 2,
+        "section": 2,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 8,
+        "user_map_id": 122,
+        "level": 1,
+        "sub_level": 2,
+        "section": 3,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 9,
+        "user_map_id": 123,
+        "level": 1,
+        "sub_level": 2,
+        "section": 4,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 10,
+        "user_map_id": 124,
+        "level": 1,
+        "sub_level": 2,
+        "section": 5,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 11,
+        "user_map_id": 125,
+        "level": 1,
+        "sub_level": 3,
+        "section": 1,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 12,
+        "user_map_id": 126,
+        "level": 1,
+        "sub_level": 3,
+        "section": 2,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 13,
+        "user_map_id": 127,
+        "level": 1,
+        "sub_level": 3,
+        "section": 2,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 14,
+        "user_map_id": 128,
+        "level": 1,
+        "sub_level": 3,
+        "section": 4,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 15,
+        "user_map_id": 129,
+        "level": 1,
+        "sub_level": 3,
+        "section": 5,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 16,
+        "user_map_id": 130,
+        "level": 1,
+        "sub_level": 4,
+        "section": 1,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 17,
+        "user_map_id": 131,
+        "level": 1,
+        "sub_level": 4,
+        "section": 2,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 18,
+        "user_map_id": 132,
+        "level": 1,
+        "sub_level": 4,
+        "section": 3,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 19,
+        "user_map_id": 133,
+        "level": 1,
+        "sub_level": 4,
+        "section": 4,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    },
+    {
+        "id": 20,
+        "user_map_id": 134,
+        "level": 1,
+        "sub_level": 4,
+        "section": 5,
+        "updated_name": null,
+        "created_at": "2024-07-09 16:35:10",
+        "updated_at": "2024-07-09 16:35:15"
+    }
+]

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 667685605
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes.bundle
+      Dependencies: {}

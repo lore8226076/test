@@ -1,0 +1,81 @@
+name: Deploy to QA
+on:
+  push:
+    branches: [ qa-test-release ]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      PROJECT: clang_party_dev
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.7
+        env:
+          PROJECT: ${{ env.PROJECT }}
+        with:
+          host:     ${{ secrets.QA_SERVER_HOST }}
+          username: ${{ secrets.QA_SERVER_USER }}
+          key:      ${{ secrets.QA_SSH_PRIVATE_KEY }}
+          port:     36888
+          script: |
+            set -e
+            PROJECT=clang_party_dev
+            SRC_BASE=/home/www/source
+            DEST_BASE=/home/www
+            SRC_DIR=$SRC_BASE/$PROJECT
+            DEST_DIR=$DEST_BASE/$PROJECT
+            sudo git config --global --add safe.directory "$SRC_DIR"
+            
+            echo "=== 1. 建立 /var/www 目錄結構 ==="
+            sudo mkdir -p "$SRC_DIR"
+            sudo mkdir -p "$DEST_DIR"
+            echo "=== 2. Clone 或更新程式碼 ==="
+            if [ ! -d "$SRC_DIR/.git" ]; then
+              sudo git clone git@github.com:wowlongserver/clang_party_api.git "$SRC_DIR"
+            fi
+            
+            cd "$SRC_DIR"
+            sudo git fetch --all
+            sudo git reset --hard origin/qa-test-release
+            echo "=== 3. 安裝 Composer 依賴 ==="
+            export COMPOSER_ALLOW_SUPERUSER=1
+            sudo composer install --no-dev --optimize-autoloader
+            echo "=== 4. 設定擁有者與群組 ==="
+            sudo chown -R www-data:www-data "$SRC_DIR" "$DEST_DIR"
+            
+            echo "=== 5. rsync 同步到 production === "
+            sudo rsync -a --delete \
+              --exclude='.env' \
+              --exclude='storage/' \
+              "$SRC_DIR/" "$DEST_DIR/" || true
+            echo "=== 6. Laravel 例行工作 ==="
+            cd "$DEST_DIR"
+            sudo mkdir -p "$DEST_DIR/storage/logs"
+            # 建立當天的 Laravel log 檔案
+            TODAY=$(date +%Y-%m-%d)
+            LOG_FILE="$DEST_DIR/storage/logs/laravel-${TODAY}.log"
+            
+            # 設定整個 logs 目錄權限（比 777 安全）
+            sudo chown -R www-data:www-data "$DEST_DIR/storage/logs"
+            sudo chmod -R 775 "$DEST_DIR/storage/logs"
+            
+            sudo chown -R www-data:www-data "$DEST_DIR/storage" "$DEST_DIR/bootstrap/cache"
+            sudo chmod -R 775 "$DEST_DIR/storage" "$DEST_DIR/bootstrap/cache"
+            # 如果檔案不存在就建立
+            if [ ! -f "$LOG_FILE" ]; then
+                sudo touch "$LOG_FILE"
+            fi
+            
+            # 設定 log 檔案權限和擁有者
+            sudo chown www-data:www-data "$LOG_FILE"
+            sudo chmod 664 "$LOG_FILE"
+            
+            sudo -u www-data php artisan migrate --force
+            sudo -u www-data php artisan config:cache
+            sudo -u www-data php artisan route:cache
+            sudo -u www-data php artisan view:cache
+            echo "=== 7. 重載 Apache ==="
+            sudo systemctl reload apache2

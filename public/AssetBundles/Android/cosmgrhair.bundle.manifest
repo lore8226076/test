@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2608429700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 723f9c8556c19a830cf3a6cdfde25dd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25ddaa0c9b3f3457df8883cac8a1ffd3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 723f9c8556c19a830cf3a6cdfde25dd9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: baedd976e12657241bf7ff2d1c685342, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b6afc69135c5134bba3357baa4d1b77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerHair/HairData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerHair.prefab
+Dependencies: []

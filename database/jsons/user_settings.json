@@ -1,0 +1,266 @@
+[
+    {
+        "id": 5,
+        "user_id": 16,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":\"11\",\"second\":\"70\"},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-13 21:36:52",
+        "updated_at": "2024-11-13 21:37:09"
+    },
+    {
+        "id": 6,
+        "user_id": 19,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"1\",\"section_cnt\":7,\"sections\":{\"0\":{\"section\":1,\"kill\":\"10\",\"second\":\"10\"},\"1\":{\"section\":2,\"kill\":\"10\",\"second\":\"10\"},\"2\":{\"section\":3,\"kill\":\"10\",\"second\":\"10\"},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":\"10\",\"second\":\"10\"},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-13 22:06:39",
+        "updated_at": "2024-11-26 16:12:33"
+    },
+    {
+        "id": 7,
+        "user_id": 67,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":\"10\",\"second\":\"10\"},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 10:01:12",
+        "updated_at": "2024-11-27 10:59:15"
+    },
+    {
+        "id": 8,
+        "user_id": 69,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":\"10\",\"second\":\"10\"},\"1\":{\"section\":2,\"kill\":\"10\",\"second\":\"10\"},\"2\":{\"section\":3,\"kill\":\"10\",\"second\":\"10\"},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 11:23:38",
+        "updated_at": "2024-11-27 12:17:39"
+    },
+    {
+        "id": 9,
+        "user_id": 23,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"2\",\"now\":\"1\",\"section_cnt\":7,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 13:24:27",
+        "updated_at": "2024-11-27 14:56:26"
+    },
+    {
+        "id": 10,
+        "user_id": 2,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 15:37:42",
+        "updated_at": "2024-11-14 15:37:42"
+    },
+    {
+        "id": 11,
+        "user_id": 76,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":\"10\",\"second\":\"10\"},{\"section\":2,\"kill\":\"10\",\"second\":\"10\"},{\"section\":3,\"kill\":\"10\",\"second\":\"10\"},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 20:29:31",
+        "updated_at": "2024-11-14 21:02:16"
+    },
+    {
+        "id": 12,
+        "user_id": 34,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-14 21:50:34",
+        "updated_at": "2024-11-14 21:50:34"
+    },
+    {
+        "id": 13,
+        "user_id": 55,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"5\",\"now\":\"5\",\"section_cnt\":10,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"},\"section_4\":{\"section\":\"4\",\"kill\":\"10\",\"second\":\"10\"},\"section_5\":{\"section\":\"5\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":\"2\",\"now\":\"2\",\"section_cnt\":7,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":2,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-15 13:08:27",
+        "updated_at": "2024-11-19 18:13:37"
+    },
+    {
+        "id": 14,
+        "user_id": 81,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":8,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-15 17:01:14",
+        "updated_at": "2024-11-19 13:13:25"
+    },
+    {
+        "id": 15,
+        "user_id": 57,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":8,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-18 10:24:19",
+        "updated_at": "2024-11-18 15:52:33"
+    },
+    {
+        "id": 16,
+        "user_id": 26,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":8,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-18 13:07:00",
+        "updated_at": "2024-11-28 13:36:24"
+    },
+    {
+        "id": 17,
+        "user_id": 85,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"2\",\"now\":\"1\",\"section_cnt\":7,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-18 14:24:20",
+        "updated_at": "2024-11-29 12:15:32"
+    },
+    {
+        "id": 18,
+        "user_id": 83,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-18 14:38:39",
+        "updated_at": "2024-11-18 14:40:24"
+    },
+    {
+        "id": 19,
+        "user_id": 84,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-19 12:12:47",
+        "updated_at": "2024-11-19 12:12:47"
+    },
+    {
+        "id": 20,
+        "user_id": 87,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":8,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-19 12:32:41",
+        "updated_at": "2024-11-19 13:51:20"
+    },
+    {
+        "id": 21,
+        "user_id": 70,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"3\",\"now\":\"3\",\"section_cnt\":8,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"},\"section_2\":{\"section\":\"2\",\"kill\":\"10\",\"second\":\"10\"},\"section_3\":{\"section\":\"3\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-19 14:42:59",
+        "updated_at": "2024-11-19 14:45:36"
+    },
+    {
+        "id": 22,
+        "user_id": 42,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-25 15:32:58",
+        "updated_at": "2024-11-25 15:32:58"
+    },
+    {
+        "id": 23,
+        "user_id": 90,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-25 15:42:28",
+        "updated_at": "2024-11-25 15:42:28"
+    },
+    {
+        "id": 24,
+        "user_id": 93,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-27 18:02:59",
+        "updated_at": "2024-11-27 18:02:59"
+    },
+    {
+        "id": 25,
+        "user_id": 94,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-27 18:45:15",
+        "updated_at": "2024-11-27 18:47:38"
+    },
+    {
+        "id": 26,
+        "user_id": 88,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-27 20:11:43",
+        "updated_at": "2024-11-27 20:11:43"
+    },
+    {
+        "id": 27,
+        "user_id": 95,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-27 20:32:55",
+        "updated_at": "2024-11-27 20:32:55"
+    },
+    {
+        "id": 28,
+        "user_id": 97,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-27 21:15:10",
+        "updated_at": "2024-11-27 21:15:10"
+    },
+    {
+        "id": 29,
+        "user_id": 33,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-28 22:41:20",
+        "updated_at": "2024-11-28 23:06:34"
+    },
+    {
+        "id": 30,
+        "user_id": 98,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":\"1\",\"now\":\"1\",\"section_cnt\":6,\"sections\":{\"0\":{\"section\":1,\"kill\":0,\"second\":0},\"1\":{\"section\":2,\"kill\":0,\"second\":0},\"2\":{\"section\":3,\"kill\":0,\"second\":0},\"3\":{\"section\":4,\"kill\":0,\"second\":0},\"4\":{\"section\":5,\"kill\":0,\"second\":0},\"section_1\":{\"section\":\"1\",\"kill\":\"10\",\"second\":\"10\"}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-11-30 11:27:49",
+        "updated_at": "2024-11-30 11:35:32"
+    },
+    {
+        "id": 31,
+        "user_id": 15,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-12-10 17:25:39",
+        "updated_at": "2024-12-10 17:25:39"
+    },
+    {
+        "id": 32,
+        "user_id": 104,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2024-12-19 15:09:33",
+        "updated_at": "2024-12-19 15:09:33"
+    },
+    {
+        "id": 33,
+        "user_id": 71,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2025-01-05 12:12:23",
+        "updated_at": "2025-01-05 12:12:23"
+    },
+    {
+        "id": 34,
+        "user_id": 109,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2025-01-08 19:26:41",
+        "updated_at": "2025-01-08 19:26:41"
+    },
+    {
+        "id": 35,
+        "user_id": 111,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":[{\"section\":1,\"kill\":0,\"second\":0},{\"section\":2,\"kill\":0,\"second\":0},{\"section\":3,\"kill\":0,\"second\":0},{\"section\":4,\"kill\":0,\"second\":0},{\"section\":5,\"kill\":0,\"second\":0}]}}",
+        "updated_name": null,
+        "created_at": "2025-01-09 01:22:40",
+        "updated_at": "2025-01-09 01:22:40"
+    },
+    {
+        "id": 36,
+        "user_id": 752,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":4,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}}}",
+        "updated_name": null,
+        "created_at": "2025-02-12 18:43:30",
+        "updated_at": "2025-02-12 18:43:30"
+    },
+    {
+        "id": 37,
+        "user_id": 753,
+        "level_data": "{\"level_11\":{\"level\":1,\"sub_level\":1,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_12\":{\"level\":1,\"sub_level\":2,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_13\":{\"level\":1,\"sub_level\":3,\"max\":0,\"now\":0,\"section_cnt\":4,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}},\"level_14\":{\"level\":1,\"sub_level\":4,\"max\":0,\"now\":0,\"section_cnt\":5,\"sections\":{\"section_1\":{\"section\":1,\"kill\":0,\"second\":0},\"section_2\":{\"section\":2,\"kill\":0,\"second\":0},\"section_3\":{\"section\":3,\"kill\":0,\"second\":0},\"section_4\":{\"section\":4,\"kill\":0,\"second\":0},\"section_5\":{\"section\":5,\"kill\":0,\"second\":0}}}}",
+        "updated_name": null,
+        "created_at": "2025-02-19 14:23:44",
+        "updated_at": "2025-02-19 14:23:44"
+    }
+]

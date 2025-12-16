@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 744830941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a37d61128f3021fd2ab508851b0b2f58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 883f1c57af506f3588eda80569b3776d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a37d61128f3021fd2ab508851b0b2f58
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6994ec4fe60a93f43bcd6a49af97456d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6527fe90db4e2549b379ec37c36ad3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c769212d2fdc63640a2f1152faa30285, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c66a224d244898c45ad53e4300d98e13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c25e7658d4161984691a464e4d346494, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/AlternativeColor
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/AlternativeModel
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/ObjectInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/TypeIconData
+- AssemblyName: Assembly-CSharp
+  ClassName: ObjectOnFloor/CoordInfo
+Assets:
+- Assets/_AssetBundle/Prefabs/MapResManagerObjects_Furniture.prefab
+Dependencies: []

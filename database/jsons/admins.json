@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "account": "store_api",
+        "password": "$2y$10$5remEt8pzaqpz.TUhdO5J.de9CAtOP41GOMCv78lNUvq9d5FjxNAS",
+        "name": "store_api",
+        "cellphone": null,
+        "dept": null,
+        "title": null,
+        "is_active": 1,
+        "is_adm": 1,
+        "admin_permission_id": 1,
+        "remember_token": "cU62sRjgbHsKlE5lUhp7ppE1bLytp3Q1TUW3YvUraUCQUCLyBahQo1zX1Z8l",
+        "created_at": "2022-04-10 16:46:04",
+        "updated_at": "2022-05-08 15:11:46"
+    },
+    {
+        "id": 2,
+        "account": "nick",
+        "password": "$2y$10$PYLn41UaF1Sm0SJ70n414eBSg8xqjalFRlWBEKBb1qLqQBrpxxBji",
+        "name": "Nick",
+        "cellphone": null,
+        "dept": null,
+        "title": null,
+        "is_active": 1,
+        "is_adm": 1,
+        "admin_permission_id": 1,
+        "remember_token": "5AhOAJvffWzg8m9srB1Rn73S8YIdR1Ved7lYSaabSo0BFeDVawsnwQGAKEYM",
+        "created_at": "2022-04-12 17:46:56",
+        "updated_at": "2022-04-12 17:46:56"
+    },
+    {
+        "id": 3,
+        "account": "andrew",
+        "password": "$2y$10$gMMNEoOP\/KEwbmBIdR6ytOR4WDAxHSgAm4Xn0X8\/CKkE2eh3t09aK",
+        "name": "Andrew",
+        "cellphone": null,
+        "dept": null,
+        "title": null,
+        "is_active": 1,
+        "is_adm": 1,
+        "admin_permission_id": 1,
+        "remember_token": "uTMyAt2HUA7CX9TjCkdaArSmmifBw6P1nnHJNhKm9tpci9MhpMy5waPJMaD2",
+        "created_at": "2022-05-19 16:00:58",
+        "updated_at": "2022-05-19 16:00:58"
+    },
+    {
+        "id": 4,
+        "account": "admin",
+        "password": "$2y$10$0hy9Tbh4w1CwpmU\/QUy0NeMn0wYTwOmUfFkaZrweac2g2hFE924pu",
+        "name": "admin",
+        "cellphone": null,
+        "dept": null,
+        "title": null,
+        "is_active": 1,
+        "is_adm": 1,
+        "admin_permission_id": 1,
+        "remember_token": "CKl6FjwNyR85dlYDaa9TSfGJHQMdvkljheLr2rOmL69osg5UtA0tGWygguKO",
+        "created_at": "2022-06-10 15:52:06",
+        "updated_at": "2022-06-10 15:52:06"
+    }
+]

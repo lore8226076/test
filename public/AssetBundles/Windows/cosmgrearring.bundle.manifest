@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3528443642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67f50baca9425e98dfa0580dda0749e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: efec9a734d786c42e28c428dac18395c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67f50baca9425e98dfa0580dda0749e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204f4ce21ca54d84aaa1fa4f73d729e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c849058dd8254b92fe950e5109097, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0979b0846727cbf43a89dae5e23e39a2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerEarring/EarringData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerEarring.prefab
+Dependencies: []

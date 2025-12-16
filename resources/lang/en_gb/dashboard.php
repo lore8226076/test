@@ -1,0 +1,20 @@
+<?php
+return [
+    '今日預約' => 'Today\'s Reservations',
+    '本月營業額' => 'Monthly Revenue',
+    '本週營業額' => 'Weekly Revenue',
+    '本日營業額' => 'Daily Revenue',
+    '客戶人數' => 'Number of Customers',
+    '預約數量' => 'Reservation Count',
+    '本日訂金' => 'Deposit Today',
+    '預約紀錄' => 'Reservation Records',
+    '客戶姓名' => 'Customer Name',
+    '預約時間' => 'Reservation Time',
+    '電話' => 'Phone',
+    '服務' => 'Service',
+    '服務人員' => 'Service Personnel',
+    '訂金' => 'Deposit',
+    '已預約' => 'Reserved',
+    '已取消' => 'Canceled',
+    '已結帳' => 'Checked Out',
+];

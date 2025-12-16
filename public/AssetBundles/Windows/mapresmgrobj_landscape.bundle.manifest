@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 679518743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db00029fee8f9fb8b18f5f8af0fe17e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 842526907a1f9726720d3f6e3afb0ccb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: db00029fee8f9fb8b18f5f8af0fe17e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b487b3c1e74c3804cae36ec4eb7d9839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6994ec4fe60a93f43bcd6a49af97456d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7f310b8d1f0ae44587edf2957697cf2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7faa64a828219b44cb0eb5bfbfa83524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e66e79a30a37ff42a8eba0b2b744fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6527fe90db4e2549b379ec37c36ad3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c769212d2fdc63640a2f1152faa30285, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb88a10746a46bf4480799312a87b4e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/AlternativeColor
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/AlternativeModel
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/ObjectInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerObjects/TypeIconData
+- AssemblyName: Assembly-CSharp
+  ClassName: ObjectOnFloor/CoordInfo
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/_AssetBundle/Prefabs/MapResManagerObjects_Landscape.prefab
+Dependencies: []

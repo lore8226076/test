@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3866298238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83e6340aedf124889eb4d1c7f9f1d641
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8a76ff86b2a16a1b4961c01bafe0f616
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 83e6340aedf124889eb4d1c7f9f1d641
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5863f66c697c51f4884ab76723a0efa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74e8f4a69fb962c4bae0ab583a6b1733, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c66a224d244898c45ad53e4300d98e13, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerBase/ObjectInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: MapResManagerBase/StyleIconData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/_AssetBundle/Prefabs/MapResManagerBase.prefab
+Dependencies: []

@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 2933913500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e92f09fb4c1d04275cfe471724df7e7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6153536c1c048bdeab5afdba8b4111a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e92f09fb4c1d04275cfe471724df7e7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7b212e3a2a471143acfbfb2ee18b6c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c133717c76e564a5fa90d7f12908d17e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SkyLightVolumeManager/SkyLightData
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.LayerMaskParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector4Parameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyBlinkStyleParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyBloomLayersFilterMethodParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyCompareStyleParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDebugOutputParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDoFBokehCompositionParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDoFCameraSettingsParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDoFFilterModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDoFFocusModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyDownsamplingModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyFrameStyleParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyLayerMaskParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyOutlineStageParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifySunFlaresDepthOcclusionMode
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyTonemapOperatorParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/BeautifyVignetteFitMode
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/DoFTargetFallbackParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: Beautify.Universal.Beautify/MinMaxFloatParameter
+Assets:
+- Assets/_AssetBundle/Prefabs/SkyLightVolumeManager.prefab
+Dependencies: []

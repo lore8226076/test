@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 157341200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a782c3640abe3cb18e0a0da48122287b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c08bf7b88adf7d55777f5c83d600a59a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a782c3640abe3cb18e0a0da48122287b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e66e79a30a37ff42a8eba0b2b744fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cff4a896f9c9b5d4c8507c7eb9281ca0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorData
+- AssemblyName: Assembly-CSharp
+  ClassName: CostumeManagerUpper/UpperData
+Assets:
+- Assets/_AssetBundle/Prefabs/CostumeManagerUpper.prefab
+Dependencies: []

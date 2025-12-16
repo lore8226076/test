@@ -1,0 +1,142 @@
+// SkillId	Name	Desc	UISpriteName	Cool down	Anim Index	Active Delay	Active Timeout	Distance	Protection Time	Hit Reaction	Hit Dir Mode	Knockup Speed XZ	Knockup Speed Y	Damage	Minimum Damage Limit	Minimum Damage Value	Proj Attach OnBone	Proj Attach BoneName	Proj Prefab	Proj Explosion Damage	Proj Tracking Mode	Parabola
+0	skill.playeratt02.name	skill.playeratt02.desc	icon_skill_01	0.5	0	0.25	2.5	10	0.1	Hit	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+1	skill.playeratt01.name	skill.playeratt01.desc	icon_skill_00	2.5	1	1.3	0.5	2	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_MeleeAttack	20	None	FALSE
+2	skill.playeratt02.name	skill.playeratt02.desc	icon_skill_02	1.5	2	0.1	2.8	2	0.1	Knockup	Attacker	5	2	1	TRUE	1	TRUE	Muzzle	Skills/Demo/Proj_Melee_BodyImpact	20	None	FALSE
+4	x	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+5	x	x	x	0	1	0.3	0.3	2.5	0.5	Hit	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+6	x	x	x	0	2	1	0.3	5	0.5	Hit	Attacker	4	3	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+7	x	x	x	0	0	0	1	999999	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Fort/Proj_Duck	20	None	FALSE
+8	x	x	x	0	0	0	0.2	999999	2	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Trap_PoisonSlime/Proj_Poison	20	None	FALSE
+9	x	x	x	3	0	0.3	0.2	2.5	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+10	x	x	x	10	1	0.25	0.3	2.5	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+11	x	x	x	10	2	0.5	0.3	2.5	0.5	None	Attacker	4	3	1	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+99	x	x	x	0	2	0.14	0.06	2.5	0.5	Knockup	Relative	10	1	10	TRUE	1	TRUE	Muzzle	Skills/Demo/MeleeAttack_Test	20	None	FALSE
+100	x Player Basic Shoot Lv.1	x	x	1	1	0.25	2.5	0	0.1	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+101	x Player Basic Shoot Lv.2	x	x	1	1	0.25	2.5	0	0.1	Hit	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+102	x Player Basic Shoot Lv.3	x	x	1	1	0.25	2.5	0	0.1	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+103	x Player Basic Shoot Lv.4	x	x	1	1	0.25	2.5	0	0.1	Hit	Attacker	0	0	2.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+104	x Player Basic Shoot Lv.5	x	x	1	1	0.25	2.5	0	0.1	Knockup	Attacker	0	0	3	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+200	x Player Basic Throw	x	x	0	2	0.25	2.5	0	0.1	Knockup	Attacker	3	2	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+300	x Player Bomber Throw	x	x	0	2	0.25	2.5	0	0.1	Knockup	Attacker	3	5	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+400	x Player Breaker Throw	x	x	0	2	0.25	2.5	0	0.1	Knockup	Attacker	3	2	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Proj_EnergyMissileBlue	20	Position	FALSE
+1000	x Pet01Pig-ComAttack01 Lv.1	x	x	1	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1001	x Pet01Pig-ComAttack01 Lv.2	x	x	1	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	2.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1002	x Pet01Pig-ComAttack01 Lv.3	x	x	1	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	3.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1003	x Pet01Pig-ComAttack01 Lv.4	x	x	1	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	4.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1004	x Pet01Pig-ComAttack01 Lv.5	x	x	1	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1010	x Pet01Pig-ComAttack02 Lv.1	x	x	1	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1011	x Pet01Pig-ComAttack02 Lv.2	x	x	1	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	2.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1012	x Pet01Pig-ComAttack02 Lv.3	x	x	1	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	3.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1013	x Pet01Pig-ComAttack02 Lv.4	x	x	1	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	4.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1014	x Pet01Pig-ComAttack02 Lv.5	x	x	1	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1020	x Pet01Pig-SP_Attack03 Lv.1	x	x	3	2	1	0.3	5	0.5	Knockup	Attacker	0	0	3	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1021	x Pet01Pig-SP_Attack03 Lv.2	x	x	3	2	1	0.3	5	0.5	Knockup	Attacker	0	0	4	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1022	x Pet01Pig-SP_Attack03 Lv.3	x	x	3	2	1	0.3	5	0.5	Knockup	Attacker	0	0	5	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1023	x Pet01Pig-SP_Attack03 Lv.4	x	x	3	2	1	0.3	5	0.5	Knockup	Attacker	0	0	6	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1024	x Pet01Pig-SP_Attack03 Lv.5	x	x	3	2	1	0.3	5	0.5	Knockup	Attacker	0	0	7	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1030	x Pet01Pig-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1040	x Pet01Pig-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1050	x Pet01Pig-HyperSkill	x	x	0	5	1	0.3	5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1100	x Pet02Ninja-ComAttack01	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1110	x Pet02Ninja-ComAttack02	x	x	0	1	0.3	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1120	x Pet02Ninja-SP_Attack03	x	x	0	2	1	0.3	5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1130	x Pet02Ninja-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1140	x Pet02Ninja-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1150	x Pet02Ninja-HyperSkill	x	x	0	5	1	0.3	5	0.5	Knockup	Attacker	3	1	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1200	x Pet03Bull-ComAttack01	x	x	0	0	0.3	0.2	2.5	0.5	Knockup	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1210	x Pet03Bull-ComAttack02	x	x	0	1	0.3	0.3	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1220	x Pet03Bull-SP_Attack03	x	x	0	2	1	0.3	5	0.5	Knockup	Attacker	3	5	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1230	x Pet03Bull-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	Knockup	Attacker	3	5	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1240	x Pet03Bull-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	Knockup	Attacker	10	5	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1250	x Pet03Bull-HyperSkill	x	x	0	5	1	0.3	5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1300	x Pet04Rabbit-ComAttack01 Lv.1	x	x	0.5	0	0.3	0.2	1.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1301	x Pet04Rabbit-ComAttack01 Lv.2	x	x	0.5	0	0.3	0.2	1.5	0.5	None	Attacker	0	0	1.3	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1302	x Pet04Rabbit-ComAttack01 Lv.3	x	x	0.5	0	0.3	0.2	1.5	0.5	None	Attacker	0	0	1.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1303	x Pet04Rabbit-ComAttack01 Lv.4	x	x	0.5	0	0.3	0.2	1.5	0.5	None	Attacker	0	0	2.1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1304	x Pet04Rabbit-ComAttack01 Lv.5	x	x	0.5	0	0.3	0.2	1.5	0.5	None	Attacker	0	0	2.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1310	x Pet04Rabbit-ComAttack02 Lv.1	x	x	0.5	1	0.3	0.3	1.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1311	x Pet04Rabbit-ComAttack02 Lv.2	x	x	0.5	1	0.3	0.3	1.5	0.5	None	Attacker	0	0	1.3	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1312	x Pet04Rabbit-ComAttack02 Lv.3	x	x	0.5	1	0.3	0.3	1.5	0.5	None	Attacker	0	0	1.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1313	x Pet04Rabbit-ComAttack02 Lv.4	x	x	0.5	1	0.3	0.3	1.5	0.5	None	Attacker	0	0	2.1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1314	x Pet04Rabbit-ComAttack02 Lv.5	x	x	0.5	1	0.3	0.3	1.5	0.5	None	Attacker	0	0	2.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1320	x Pet04Rabbit-SP_Attack03 Lv.1	x	x	1	2	1	0.3	2	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1321	x Pet04Rabbit-SP_Attack03 Lv.2	x	x	1	2	1	0.3	2	0.5	Hit	Attacker	0	0	1.5	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1322	x Pet04Rabbit-SP_Attack03 Lv.3	x	x	1	2	1	0.3	2	0.5	Hit	Attacker	0	0	2	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1323	x Pet04Rabbit-SP_Attack03 Lv.4	x	x	1	2	1	0.3	2	0.5	Hit	Attacker	0	0	2.5	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1324	x Pet04Rabbit-SP_Attack03 Lv.5	x	x	1	2	1	0.3	2	0.5	Hit	Attacker	0	0	3	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1330	x Pet04Rabbit-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1340	x Pet04Rabbit-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1350	x Pet04Rabbit-HyperSkill	x	x	0	5	1	0.3	5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1400	x Pet05Shooter-ComAttack01	x	x	0	0	0.3	0.2	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1410	x Pet05Shooter-ComAttack02	x	x	0	1	0.3	0.3	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1420	x Pet05Shooter-SP_Attack03	x	x	0	2	1	0.3	5	0.5	Knockup	Attacker	5	1	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1430	x Pet05Shooter-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	Knockup	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1440	x Pet05Shooter-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1450	x Pet05Shooter-HyperSkill	x	x	0	5	1	0.3	5	0.5	Knockup	Attacker	0	10	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1500	x Pet06Bear-ComAttack01 Lv.1	x	x	1.2	0	0.3	0.2	3	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1501	x Pet06Bear-ComAttack01 Lv.2	x	x	1.2	0	0.3	0.2	3	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1502	x Pet06Bear-ComAttack01 Lv.3	x	x	1.2	0	0.3	0.2	3	0.5	None	Attacker	0	0	2.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1503	x Pet06Bear-ComAttack01 Lv.4	x	x	1.2	0	0.3	0.2	3	0.5	None	Attacker	0	0	3	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1504	x Pet06Bear-ComAttack01 Lv.5	x	x	1.2	0	0.3	0.2	3	0.5	None	Attacker	0	0	3.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1510	x Pet06Bear-ComAttack02 Lv.1	x	x	1.2	1	0.3	0.3	3	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1511	x Pet06Bear-ComAttack02 Lv.2	x	x	1.2	1	0.3	0.3	3	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1512	x Pet06Bear-ComAttack02 Lv.3	x	x	1.2	1	0.3	0.3	3	0.5	None	Attacker	0	0	2.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1513	x Pet06Bear-ComAttack02 Lv.4	x	x	1.2	1	0.3	0.3	3	0.5	None	Attacker	0	0	3	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1514	x Pet06Bear-ComAttack02 Lv.5	x	x	1.2	1	0.3	0.3	3	0.5	None	Attacker	0	0	3.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1520	x Pet06Bear-SP_Attack03 Lv.1	x	x	3	2	1	0.3	3.5	0.5	Hit	Attacker	0	0	2	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1521	x Pet06Bear-SP_Attack03 Lv.2	x	x	3	2	1	0.3	3.5	0.5	Hit	Attacker	0	0	3	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1522	x Pet06Bear-SP_Attack03 Lv.3	x	x	3	2	1	0.3	3.5	0.5	Hit	Attacker	0	0	4	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1523	x Pet06Bear-SP_Attack03 Lv.4	x	x	3	2	1	0.3	3.5	0.5	Hit	Attacker	0	0	5	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1524	x Pet06Bear-SP_Attack03 Lv.5	x	x	3	2	1	0.3	3.5	0.5	Hit	Attacker	0	0	6	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1530	x Pet06Bear-Skill01	x	x	0	3	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1540	x Pet06Bear-Skill02	x	x	0	4	0.3	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Pig/Proj_MeleeAttack_1.5	20	None	FALSE
+1550	x Pet06Bear-HyperSkill	x	x	0	5	1	0.3	5	0.5	Knockup	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Pig/Proj_MeleeAttack_2.0	20	None	FALSE
+1600	x Mob01 ComAttack01 Lv.1	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1601	x Mob01 ComAttack01 Lv.2	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1602	x Mob01 ComAttack01 Lv.3	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1603	x Mob01 ComAttack01 Lv.4	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1604	x Mob01 ComAttack01 Lv.5	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1610	x Mob01 ComAttack02 Lv.1	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1611	x Mob01 ComAttack02 Lv.2	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1612	x Mob01 ComAttack02 Lv.3	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1613	x Mob01 ComAttack02 Lv.4	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1614	x Mob01 ComAttack02 Lv.5	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1620	x Mob01 SP_Attack Lv.1	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.5	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1621	x Mob01 SP_Attack Lv.2	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.7	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1622	x Mob01 SP_Attack Lv.3	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.9	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1623	x Mob01 SP_Attack Lv.4	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	2.3	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1624	x Mob01 SP_Attack Lv.5	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	2.5	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1630	x Mob01 ComAttack01 Lv.1	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	0.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1631	x Mob01 ComAttack01 Lv.2	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	0.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1632	x Mob01 ComAttack01 Lv.3	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1633	x Mob01 ComAttack01 Lv.4	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1634	x Mob01 ComAttack01 Lv.5	x	x	0	0	0.3	0.2	2.5	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1640	x Mob01 ComAttack02 Lv.1	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	0.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1641	x Mob01 ComAttack02 Lv.2	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	0.7	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1642	x Mob01 ComAttack02 Lv.3	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1643	x Mob01 ComAttack02 Lv.4	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1644	x Mob01 ComAttack02 Lv.5	x	x	0	1	0.25	0.3	2.5	0.5	None	Attacker	0	0	1.5	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+1650	x Mob01 SP_Attack Lv.1	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1651	x Mob01 SP_Attack Lv.2	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.2	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1652	x Mob01 SP_Attack Lv.3	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.5	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1653	x Mob01 SP_Attack Lv.4	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	1.7	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1654	x Mob01 SP_Attack Lv.5	x	x	0	2	0.5	0.3	2.5	0.5	Hit	Attacker	0	0	2	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+1990	x Mob01 Sidewalk	x	x	0	3	0.25	2.5	0	0	None	Relative	0	0	0	FALSE	0	FALSE	Muzzle	0	0	None	FALSE
+1991	x Mob01 Sidewalk_Mirror	x	x	0	4	0.25	2.5	0	0	None	Relative	0	0	0	FALSE	0	FALSE	Muzzle	0	0	None	FALSE
+1992	x Mob01 intimidate	x	x	0	5	0.25	2.5	0	0	None	Relative	0	0	0	FALSE	0	FALSE	Muzzle	0	0	None	FALSE
+2000	x Elite01 ComAttack01	x	x	0	0	0.3	0.2	2.5	0.5	Hit	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+2010	x Elite01 ComAttack02	x	x	0	1	0.25	0.3	2.5	0.5	Hit	Attacker	0	0	1.2	TRUE	1	FALSE	Muzzle	Skills/Demo/Monster_01/Proj_MeleeAttack_1m	20	None	FALSE
+2020	x Elite01 SP_Attack	x	x	0	2	0.5	0.3	2.5	0.5	Knockup	Attacker	5	2	1.2	TRUE	1	FALSE	Center	Skills/Demo/Monster_01/Proj_MeleeAttack_2m	20	None	FALSE
+2030	x Elite01 Skill01	x	x	0	3	0.1	2.8	0	0.1	Knockup	Attacker	5	2	10	TRUE	1	TRUE	Center	Skills/Demo/Proj_Melee_BodyImpact	20	None	FALSE
+10000	x_Com_SpringBed	x	x	0	0	0	0.2	999999	2	Knockup	Relative_Neg	3	15	-1	FALSE	0	FALSE	Muzzle	Skills/00_Trigger/Proj_Dummy01	0	None	FALSE
+10001	x_Com_Conveyor	x	x	0	0	0	0.2	999999	2	Knockup	Attacker	10	5	-1	FALSE	0	FALSE	Muzzle	Skills/00_Trigger/Proj_Dummy01	0	None	FALSE
+10002	x_Com_JumpConveyor	x	x	0	0	0	0.2	999999	2	Knockup	Attacker	3	20	-1	FALSE	0	FALSE	Muzzle	Skills/00_Trigger/Proj_Dummy01	0	None	FALSE
+10100	x_Com_BasicCannon	x	x	0	0	0	1	999999	0.5	Hit	Attacker	0	0	3	TRUE	1	FALSE	Muzzle	Skills/02_Projectile/Proj_EnergyBall01	20	None	FALSE
+10101	x_Com_FireCannon	x	x	0	0	0	4.5	999999	0.5	Knockup	Relative	5	3	3	TRUE	1	TRUE	Muzzle	Skills/01_Appendage/Proj_FlameBar	20	None	FALSE
+10200	x_Com_SpikeTrap	x	x	2	0	0.12	2	999999	5	Knockup	Relative	3	10	5	TRUE	1	FALSE	Muzzle	Skills/03_Area/Proj_Spike01	20	None	FALSE
+10201	x_Com_FireTrap	x	x	2	0	0.12	1	999999	5	Knockup	Relative	6	3	5	TRUE	1	FALSE	Muzzle	Skills/03_Area/Proj_Fire01	20	None	FALSE
+10202	x_Com_IceTrap	x	x	2	0	0.12	1	999999	2	Knockup	Relative	6	3	5	TRUE	1	FALSE	Muzzle	Skills/03_Area/Proj_Ice01	20	None	FALSE
+10203	x_Com_CureTrap	x	x	2	0	0.12	1	999999	2	None	None	0	0	-10	FALSE	0	FALSE	Muzzle	Skills/03_Area/Proj_Cure01	20	None	FALSE
+10204	x_Com_PoisonTrap	x	x	2	0	0.12	1	999999	2	Knockup	Relative	6	3	5	TRUE	1	FALSE	Muzzle	Skills/03_Area/Proj_Poison01	20	None	FALSE
+99998	Area_Test	x	x	0	0	0	2	999999	2	None	None	0	0	0	FALSE	0	FALSE	Muzzle	Skills/03_Area/Proj_Fire01	0	None	FALSE
+99999	Attack_Test	x	x	0	0	0	2	999999	2	None	None	0	0	0	FALSE	0	FALSE	Muzzle	Skills/02_Projectile/Proj_Bullet01	0	None	FALSE
